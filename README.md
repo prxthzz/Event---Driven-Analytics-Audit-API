@@ -17,7 +17,7 @@ The checkpoints included:
 * Track processing latency & failed events
 * Health check endpoint
 * Proper error handling & HTTP status codes
-I've also included the options for: 
+I've also included the features for: 
 * Sliding-window rate limiting
 * Auto-delete old data (retention policy)
 * WebSocket live metrics
